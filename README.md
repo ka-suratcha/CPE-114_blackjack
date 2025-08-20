@@ -1,7 +1,7 @@
 # CPE-114_blackjack
 
 ## 📖 Overview
-This project was developed as part of **CPE-114: Object-Oriented Programming Laboratory**.
+This project was created as part of  **CPE-114: Object-Oriented Programming Laboratory**.
 
 The goal of this assignment is to prove that you understand **Object-Oriented Programming (OOP)** concepts such as constructors, class interactions, and encapsulation.
 

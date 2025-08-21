@@ -3,7 +3,7 @@
 ## 📖 Overview
 This project was created as part of  **CPE-114: Object-Oriented Programming Laboratory**.
 
-The goal of this assignment is to prove that you understand **Object-Oriented Programming (OOP)** concepts such as constructors, class interactions, and encapsulation.
+The goal is to prove that you understand **Object-Oriented Programming (OOP)** concepts such as constructors, class interactions, and encapsulation.
 
 I chose the **Blackjack card game** because it demonstrates the use of **OOP** and **STL containers (vector)** in a practical and engaging way.
 
